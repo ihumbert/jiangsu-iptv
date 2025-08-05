@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://tv.nasfan.top:8888/"
 #EXTINF:-1 group-title="CCTV" tvg-name="CCTV1",CCTV-1高清
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEkAFVn1RP2d2uoo%2Foo97iAsu0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="CCTV" tvg-name="CCTV2",CCTV-2高清
@@ -45,7 +45,7 @@ http://122.96.52.98:8006/JS_CUCC/G_CETV-2.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEg
 http://122.96.52.98:8006/JS_CUCC/G_CETV-3.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEtKB43Jj647OcHilv0oxiEALxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="教育" tvg-name="CETV4",CETV-4
 http://122.96.52.98:8006/JS_CUCC/G_CETV-4.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEiByI341AZF720jOgKAMqfALxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏" tvg-name="江苏卫视",江苏卫视高清
+#EXTINF:-1 group-title="卫视" tvg-name="江苏卫视",江苏卫视高清
 http://122.96.52.98:8006/JS_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEu%2B73CN7TjP4aPry8BxkIZp4LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="卫视" tvg-name="浙江卫视",浙江卫视高清
 http://122.96.52.98:8006/JS_CUCC/ZJWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnEBbogY8aw6bJAEBjs4erib81ufElMrCkVylhMcfT%2BR&p=GITV&area=JS_CUCC
@@ -211,13 +211,13 @@ http://122.96.52.98:8006/JS_CUCC/CCTV-11.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEih
 http://122.96.52.98:8006/JS_CUCC/CCTV-12.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgLx7yngoHabzsHoVzJ7rjA3CITGH3H4QrNyNYWLeTps&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="CCTV" tvg-name="CCTV13",CCTV-13
 http://122.96.52.98:8006/JS_CUCC/CCTV-13.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvc16C%2BvDeDvx%2FCpJSGbwJo3CITGH3H4QrNyNYWLeTps&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="少儿" tvg-name="CCTV14",CCTV-14
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV14",CCTV-14
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-14.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoD9ET%2Fxx1xfq9p9fkelR8gLl1kgfSDeytwXvPwn2c6i&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="CCTV" tvg-name="CCTV15",CCTV-15
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-15.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnO2QfmJhn9rzsvMT8s8LNALl1kgfSDeytwXvPwn2c6i&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="卫视" tvg-name="北京卫视",北京卫视高清
 http://122.96.52.98:8006/JS_CUCC/BTV-1.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoRaGwcNlfzCoTWCXJuHL4%2FhCsZiWNVb%2B9ug3Ov%2B5E3U&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏" tvg-name="江苏卫视",江苏卫视
+#EXTINF:-1 group-title="卫视" tvg-name="江苏卫视",江苏卫视
 http://122.96.52.98:8006/JS_CUCC/JSWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEsx9gdDHY22LeCx6dQRJvo%2BAbs%2ByF7b29hFRLV23f6Vj&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="CCTV" tvg-name="CCTV16",CCTV-16
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-16-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEprOy1thJK05Ys6n3CjtSJlMbaR389oSCXqlFcK2rwtb&p=GITV&area=JS_CUCC
