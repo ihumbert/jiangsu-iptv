@@ -1,25 +1,25 @@
 #EXTM3U x-tvg-url="http://tv.nasfan.top:8888/"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://github.com/ihumbert/iptv/tree/main/BenchMark/CCTV1.png" group-title="央视",CCTV-1高清
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="央视",CCTV-1高清
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEkAFVn1RP2d2uoo%2Foo97iAsu0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://github.com/ihumbert/iptv/tree/main/BenchMark/CCTV2.png" group-title="央视",CCTV-2高清
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/945/202205311432_1653977575541_H169_1080.jpg" group-title="央视",CCTV-2高清
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjLjmqq5VFTNlTRTIYZuPFEu0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://github.com/ihumbert/iptv/tree/main/BenchMark/CCTV3.png" group-title="央视",CCTV-3高清
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/864/202204010055_1626679292691_H169_1080.jpg" group-title="央视",CCTV-3高清
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgPYh7UYWZPIIdnB%2FiAqXWou0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://github.com/ihumbert/iptv/tree/main/BenchMark/CCTV4.png" group-title="央视",CCTV-4高清
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/947/202204010054_1626679457281_H169_1080.jpg" group-title="央视",CCTV-4高清
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-4-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoaYUhARSOAZvaB4bPLfRG0u0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/ihumbert/iptv/tree/main/BenchMark/CCTV5.png" group-title="央视",CCTV-5高清
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/516/171/202204010048_1626679645474_H169_1080.jpg" group-title="央视",CCTV-5高清
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEozMH5mDAJP6SltbUTv3nN8u0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/ihumbert/iptv/tree/main/BenchMark/CCTV5+.png" group-title="央视",CCTV5+高清
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/516/288/202204010048_1626679726956_H169_1080.jpg" group-title="央视",CCTV5+高清
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEp4x3ZVhpAE%2BHYVoOre4TusAXe%2BeZvUgolzXkq%2By75Rg&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://github.com/ihumbert/iptv/tree/main/BenchMark/CCTV6.png" group-title="央视",CCTV-6高清
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/872/202204010054_1626679942827_H169_1080.jpg" group-title="央视",CCTV-6高清
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-6-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEuwxwaoCGJY2cCtI9leQXrQu0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://github.com/ihumbert/iptv/tree/main/BenchMark/CCTV7.png" group-title="央视",CCTV-7高清
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/622/202204010054_1626680072401_H169_1080.jpg" group-title="央视",CCTV-7高清
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-7-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEo%2FnZmofd%2BrCFtc8Q50vu3Au0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://github.com/ihumbert/iptv/tree/main/BenchMark/CCTV8.png" group-title="央视",CCTV-8高清
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/868/202204010049_1626677144094_H169_1080.jpg" group-title="央视",CCTV-8高清
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEsFjysg6lHm9n5%2FvwbWNDQ0u0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://github.com/ihumbert/iptv/tree/main/BenchMark/CCTV9.png" group-title="央视",CCTV-9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/624/202204010054_1626677492322_H169_1080.jpg" group-title="央视",CCTV-9
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-9-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtElGagliwFIk%2BluGBbGdVUbc02fQ712gaPW1S8iZfrxPb&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://github.com/ihumbert/iptv/tree/main/BenchMark/CCTV10.png" group-title="央视",CCTV-10超清
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/874/202204010054_1626677759168_H169_1080.jpg" group-title="央视", CCTV10科教
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-10-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtErwM4PQmmUbDAbEG18NJ7ON4LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://github.com/ihumbert/iptv/tree/main/BenchMark/CCTV11.png" group-title="央视",CCTV-11高清
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-11-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEglwOR0THVROxuCQpsWEgp14LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
