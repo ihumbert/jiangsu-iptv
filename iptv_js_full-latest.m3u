@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://tv.nasfan.top:8888/"
-#EXTINF:-1 tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视", CCTV1 综合
+#EXTINF:-1 tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视", CCTV1
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEkAFVn1RP2d2uoo%2Foo97iAsu0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
 #EXTINF:-1 tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视", CCTV2 财经
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjLjmqq5VFTNlTRTIYZuPFEu0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
